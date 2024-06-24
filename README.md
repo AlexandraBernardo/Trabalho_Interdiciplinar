@@ -2,11 +2,11 @@
 Este é um PROJETO para a implementação de um sistema de vendas em java com interface gráfica que permite o usuário, cadastrar e logar, vizualizar e adicionar itens ao carrinho, realizar o pagamento com ituito de demonstrar uma compra.
 
 *Telas e Funcionalidades*
-Tela de Login 👤
+Tela de Login
 Cadastrar seu usuário, senha e email.
 Login.
 
-*Tela de vendas *
+*Tela de vendas*
 Exibe os produtos, seus valores e quantidade.
 Permite adicionar ao carrinho os itens.
 Soma seus itens e mostra o valor final.
